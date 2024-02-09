@@ -19,5 +19,5 @@ const randomQuestionCalc = () => {
   return [question, correctAnswer];
 };
 const description = 'What is the result of the expression?';
-const start = () => game(description, randomQuestionCalc);
-export default start;
+const startCalc = () => game(description, randomQuestionCalc);
+export default startCalc;

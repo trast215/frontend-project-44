@@ -3,3 +3,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/9dc8462efdc2cff7b94c/maintainability)](https://codeclimate.com/github/trast215/frontend-project-44/maintainability)
 https://asciinema.org/a/3EETsxLBCAB5arXKGDxI3n5lI
 https://asciinema.org/a/HJ6DegP9ZFjZNLJNiQWSAS0Uu
+https://asciinema.org/a/NQbDGVQgypo6HL6K2KoUr7z83
