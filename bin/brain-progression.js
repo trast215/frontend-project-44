@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import startProg from '../src/ProgGame.js';
+import startProg from '../src/games/ProgGame.js';
 
 startProg();

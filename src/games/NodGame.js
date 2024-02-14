@@ -1,4 +1,4 @@
-import { game, random } from './index.js';
+import { game, random } from '../index.js';
 
 const getNod = (a, b) => ((a % b) ? getNod(b, a % b) : Math.abs(b));
 const randomQuestionNod = () => {

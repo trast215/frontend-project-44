@@ -1,4 +1,4 @@
-import { game, random } from './index.js';
+import { game, random } from '../index.js';
 
 const isPrime = (num) => {
   for (let i = 2; i < num; i += 1) {

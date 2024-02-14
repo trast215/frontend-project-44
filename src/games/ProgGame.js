@@ -1,4 +1,4 @@
-import { game, random } from './index.js';
+import { game, random } from '../index.js';
 
 function replaceAll(string, search, replace) {
   return string.split(search).join(replace);

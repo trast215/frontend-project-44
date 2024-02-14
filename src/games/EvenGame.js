@@ -1,4 +1,4 @@
-import { game, random } from './index.js';
+import { game, random } from '../index.js';
 
 const randomQuestionEven = () => {
   const question = random(100);
