@@ -3,7 +3,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/9dc8462efdc2cff7b94c/maintainability)](https://codeclimate.com/github/trast215/frontend-project-44/maintainability)
 
 Логические игры.
-
 brain-even https://asciinema.org/a/3EETsxLBCAB5arXKGDxI3n5lI
 
 brain-calc https://asciinema.org/a/HJ6DegP9ZFjZNLJNiQWSAS0Uu   
